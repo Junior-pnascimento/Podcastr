@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="./public/podcastr-logo.svg" />
+    <img alt="Podcastr" title="Podcastr" src="./public/app-preview.svg" />
 </h1>
 
 
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="160px">
+  <img alt="Moveit" src="./public/podcastr-logo.svg" width="160px">
 </p>
 
 ## 🧪 Technologies
